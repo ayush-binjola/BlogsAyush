@@ -1,0 +1,20 @@
+.{
+    margin: 0;
+    padding: 0;
+}
+.container 
+{
+    border: 1px solid blue;
+    display: flex;
+    flex-direction: row;
+}
+/* Header */
+.header
+{
+display: flex;
+border: 1px solid red;
+}
+nav
+{
+    display:inline-block ;
+}
